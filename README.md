@@ -25,6 +25,6 @@ import pyqsar
 **지금 이 저장소를 다운로드해 pyqsar 튜토리얼을 jupyter로 바로 실행시켜보세요!**
 
 ---
-### pyqsar help desk
+## pyqsar HELP DESK
 **crong24601@gmail.com**
 ---
