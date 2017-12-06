@@ -1,37 +1,30 @@
-## Welcome to PyQSAR
+# Welcome to PyQSAR
 
-You can use the [editor on GitHub](https://github.com/crong-k/PyQSAR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+pyqsar는 QSAR Modeling 및 **Feature selection** 을 위한 python package입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+빠르고 높은 성능의 Feature selection 기능을 제공합니다.
 
-### Markdown
+Windows, Linux, MacOS 환경에서 사용 가능하며
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Python 2.7** 로 실행 가능합니다. (Python3으로 실행 가능한 코드는 업로드 예정입니다.)
 
-```markdown
-Syntax highlighted code block
+pyqsar는 Jupyter(ipython notebook)에 최적화되어 있습니다.
 
-# Header 1 zzzzzzzzzzzzzzzzz
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 설치
+```
+$ conda install -c rdkit rdkit  #분자를 그리기 위해 필요한 패키지입니다.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+$ pip install pyqsar
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## pyqsar 시작하기
+```
+import pyqsar
+```
+**지금 이 저장소를 다운로드해 pyqsar 튜토리얼을 jupyter로 바로 실행시켜보세요!**
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crong-k/PyQSAR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+### pyqsar help desk
+**crong24601@gmail.com**
+---
