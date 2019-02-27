@@ -27,4 +27,4 @@ import pyqsar
 ---
 ## Citation
 KIM, Sinyoung; CHO, Kwang‐Hwi. PyQSAR: A Fast QSAR Modeling Platform Using Machine Learning and Jupyter Notebook. Bulletin of the Korean Chemical Society, 2019, 40.1: 39-44.
-## pyqsar HELP DESK : crong24601@gmail.com
+### pyqsar HELP DESK : crong24601@gmail.com
