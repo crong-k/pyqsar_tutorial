@@ -6,7 +6,7 @@ pyqsar는 QSAR Modeling 및 **Feature selection** 을 위한 python package입�
 
 Windows, Linux, MacOS 환경에서 사용 가능하며
 
-**Python 2.7** 로 실행 가능합니다. (Python3으로 실행 가능한 코드는 업로드 예정입니다.)
+**Python 2.7** 로 실행 가능합니다. 
 
 pyqsar는 Jupyter(ipython notebook)에 최적화되어 있습니다.
 
