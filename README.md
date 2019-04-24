@@ -9,7 +9,16 @@ Windows, Linux, MacOS 환경에서 사용 가능하며
 **Python 2.7** 로 실행 가능합니다. 
 
 pyqsar는 Jupyter(ipython notebook)에 최적화되어 있습니다.
-
+## Dependencies 
+numpy>=1.12.0
+setuptools>=27.2.0
+pandas>=0.24.2
+scikit-learn>=0.18.1
+matplotlib>=2.0.2
+ipywidgets>=6.0.0
+ipython>=5.3.0
+bokeh>=0.12.5
+joblib>=0.11
 
 ## 설치
 ```
