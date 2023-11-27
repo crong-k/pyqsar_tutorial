@@ -1,14 +1,19 @@
+# 🚀 PyQSAR for Python 3.x has been released! 
+
+You can now use pyqsar for Python 3.x from this repository.
+
+👉 https://github.com/Chemoinfomatics/pyqsar3
+
 # Welcome to PyQSAR
 
-pyqsar는 QSAR Modeling 및 **Feature selection** 을 위한 python package입니다.
+pyqsar is a Python package for QSAR Modeling and Feature Selection. 
 
-빠르고 높은 성능의 Feature selection 기능을 제공합니다.
+It offers fast and high-performance feature selection capabilities.
 
-Windows, Linux, MacOS 환경에서 사용 가능하며
+The package is compatible with **Python 2.7**. 
 
-**Python 2.7** 로 실행 가능합니다. 
+pyqsar is optimized for Jupyter (ipython notebook).
 
-pyqsar는 Jupyter(ipython notebook)에 최적화되어 있습니다.
 ## Dependencies 
 numpy>=1.12.0 /
 setuptools>=27.2.0 /
@@ -20,18 +25,19 @@ ipython>=5.3.0 /
 bokeh>=0.12.5 /
 joblib>=0.11 
 
-## 설치
+## Installation
 ```
-$ conda install -c rdkit rdkit  #분자를 그리기 위해 필요한 패키지입니다.
+$ conda install -c rdkit rdkit  #This package is required for drawing molecules.
 
 $ pip install pyqsar
 ```
 
-## pyqsar 시작하기
+## Getting Started with pyqsar
+
 ```
 import pyqsar
 ```
-**지금 이 저장소를 다운로드해 pyqsar 튜토리얼을 jupyter로 바로 실행시켜보세요!**
+**Download this repository now and run the pyqsar tutorial directly in Jupyter!**
 
 ---
 ## Citation
